@@ -10,14 +10,24 @@
     
     
     body{
+
     
-    background-image: url("imagen-de-fondo-para-sitio-web.jpg");
+    
+    background-image: url("54336.png");
     
     background-repeat: no-repeat;
     
     }
     
+    .body{
+
     
+    
+        background-image: url("fondotecnologia");
+        
+        background-repeat: no-repeat;
+        
+        }
     
     .img{
     
@@ -59,3 +69,53 @@
     
     color: brown;
     }
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("medellin.jpeg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
