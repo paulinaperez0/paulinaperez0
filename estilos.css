@@ -91,7 +91,7 @@
         
         background-repeat: no-repeat;
         
-        float:left;
+        float:right;
         
         height: 200px;
         
@@ -101,7 +101,7 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("iamgen.jpg");
         
         }
         
@@ -111,9 +111,9 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(23, 221, 221);
         
-        font-size: 20px;
+        font-size: 30px;
         
         
         
