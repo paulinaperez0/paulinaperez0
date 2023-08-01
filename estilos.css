@@ -23,7 +23,7 @@
 
     
     
-        background-image: url("fondotecnologia");
+        background-image: url("54336.png");
         
         background-repeat: no-repeat;
         
@@ -93,15 +93,15 @@
         
         float:right;
         
-        height: 200px;
+        height: 600px;
         
-        width: 260px;
+        width: 500px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("iamgen.jpg");
+        background-image: url("tecnologia generador.jpg");
         
         }
         
@@ -111,11 +111,260 @@
         
         text-align: justify;
         
-        color: rgb(23, 221, 221);
+        color: rgb(255, 255, 255);
         
         font-size: 30px;
         
         
         
         }
+        
+
+
+        .imagenmate{
+        
+         
+        
+        background-repeat: no-repeat;
+            
+        float:right;
+            
+        height: 200px;
+            
+        width: 260px;
+            
+        margin-left: 5px;
+            
+        margin-right:5px;
+            
+        background-image: url("iamgen.jpg");
+            
+        }
+            
+            
+            
+        .textomate{
+            
+        text-align: justify;
+            
+        color: rgb(255, 255, 255);
+            
+        font-size: 30px;
+            
+            
+            
+        }  
+        
+
+
+        .imagenbio{
+        
+         
+        
+        background-repeat: no-repeat;
+                
+        float:right;
+                
+        height: 900px;
+                
+        width: 920px;
+                
+        margin-left: 5px;
+                
+        margin-right:5px;
+                
+        background-image: url("sindrome.jpeg");
+                
+        }
+                
+                
+                
+        .textobio{
+                
+        text-align: justify;
+                
+        color: rgb(255, 255, 255);
+                
+        font-size: 30px;
+                
+                
+                
+        }  
+
+
+
+        .imagensoc{
+        
+         
+        
+        background-repeat: no-repeat;
+                    
+        float:right;
+                    
+        height: 900px;
+                    
+        width: 900px;
+                    
+        margin-left: 5px;
+                    
+        margin-right:5px;
+                    
+        background-image: url("sociales imagen.jpg");
+                    
+        }
+                    
+                    
+                    
+        .textosoc{
+                    
+        text-align: justify;
+                    
+        color: rgb(255, 255, 255);
+                    
+        font-size: 27px;
+                    
+                    
+                    
+        }  
+
+
+        .imagenmate{
+        
+         
+        
+        background-repeat: no-repeat;
+                        
+        float:right;
+                        
+        height: 800px;
+                        
+        width: 700px;
+                        
+        margin-left: 1px;
+                        
+        margin-right:1px;
+                        
+        background-image: url("polinomios.jpg");
+                        
+        }
+                        
+                        
+                        
+        .textomate{
+                        
+        text-align: justify;
+                        
+        color: rgb(255, 255, 255);
+                        
+        font-size: 30px;
+                        
+                        
+                        
+        }  
+
+
+
+        .imagening{
+        
+         
+        
+        background-repeat: no-repeat;
+                        
+        float:right;
+                        
+        height: 900px;
+                        
+        width: 800px;
+                        
+        margin-left: 1px;
+                        
+        margin-right:2px;
+                        
+        background-image: url("enfermedades -ingles.jpg");
+                        
+        }
+                        
+                        
+                        
+        .textoing{
+                        
+        text-align: justify;
+                        
+        color: rgb(255, 255, 255);
+                        
+        font-size: 27px;
+                        
+                        
+                        
+        }  
+
+
+
+        .imagening2{
+        
+         
+        
+            background-repeat: no-repeat;
+                            
+            float:right;
+                            
+            height: 900px;
+                            
+            width: 800px;
+                            
+            margin-left: 5px;
+                            
+            margin-right:5px;
+                            
+            background-image: url("");
+                            
+            }
+                            
+                            
+                            
+            .textoing2{
+                            
+            text-align: justify;
+                            
+            color: rgb(15, 13, 13);
+                            
+            font-size: 19px;
+
+            }
+
+
+
+            .imagenreligion{
+        
+         
+        
+            background-repeat: no-repeat;
+                                
+            float:right;
+                                
+            height: 900px;
+                                
+            width: 800px;
+                                
+            margin-left: 1px;
+                                
+            margin-right:2px;
+                                
+            background-image: url("hinduismo.jpg");
+                                
+            }
+                                
+                                
+                            
+            .textoreligion{
+                                
+            text-align: justify;
+                                
+            color: rgb(14, 11, 11);
+                                
+            font-size: 27px;
+                                
+                                
+                                
+            }  
         
